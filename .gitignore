@@ -4,3 +4,5 @@ data/fr*
 Reminder.rtf
 data/data_cleaned.csv
 data/feature_sparse.npz
+data/bad_data_cleaned.csv
+data/bad_feature_sparse.npz
