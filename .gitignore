@@ -2,3 +2,5 @@ data/fr*
 .ipynb_checkpoints/*
 .DS_Store
 Reminder.rtf
+data/data_cleaned.csv
+data/feature_sparse.npz
